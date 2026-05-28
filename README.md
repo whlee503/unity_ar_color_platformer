@@ -163,17 +163,20 @@ This connects AR camera input with actual gameplay progression.
 
 ### Main Title
 
-![Main Title](Screenshots/main_title.png)
+<img src="Screenshots/main_title.png" width="300">
+
 
 ### AR Platform Map
 
-![AR Platform Map 1](Screenshots/map1.png)
-
-![AR Platform Map 2](Screenshots/map2.png)
+<p align="left">
+  <img src="Screenshots/map1.png" width="40%">
+  <img src="Screenshots/map2.png" width="45%">
+</p>
 
 ### Color Detection
 
-![Color Detection](Screenshots/color_detection.png)
+<img src="Screenshots/color_detection.png" width="300">
+
 
 ---
 
